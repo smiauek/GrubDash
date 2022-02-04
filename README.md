@@ -5,7 +5,7 @@ API built following RESTful design principles for a mock food delivery service w
 
 Mock Front-End for this API can be found in [this repository](https://github.com/smiauek/starter-grub-dash-front-end.git)
 
-## Suported Routes:
+## Supported Routes:
 - `GET /dishes`  
 This route will respond with a list of all existing dish data.
 - `POST /dishes`  
